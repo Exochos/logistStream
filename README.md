@@ -1,2 +1,2 @@
 # logistStream
-IOT dog collar project
+NestJS Google 0Auth2 Implementation
